@@ -1,10 +1,15 @@
 html{
     background-color: cadetblue;
-    text-align: center;
   }
   h1{ 
-    color: green;
+    color: black;
+    text-align: center;
+
 }
 h2{
-    color: blueviolet;
+    color: blue;
+    text-align: center;
+}
+h3{
+    text-decoration-line: underline;
 }
