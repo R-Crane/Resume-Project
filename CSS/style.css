@@ -13,4 +13,16 @@ h2{
 }
 h3{
     text-decoration-line: underline;
+    font-size: larger;
+}
+#Role{
+    text-decoration-line: underline;
+    font-weight: bolder;
+}
+#Dates{
+    font-style: italic;
+    font-weight: bolder;
+}
+#Company{
+    font-weight: bolder;
 }
